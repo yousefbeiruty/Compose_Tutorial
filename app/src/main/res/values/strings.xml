@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposeTutorial</string>
+    <string name="title_activity_text_compose">TextActivityCompose</string>
+    <string name="title_activity_state_compose">StateCompose</string>
+    <string name="title_activity_text_buttons_and_athother_composables">
+        TextButtonsAndAthotherComposablesActivity
+    </string>
+    <string name="title_activity_list_compose">ListComposeActivity</string>
+    <string name="title_activity_constraint_in_compose">ConstraintInComposeActivity</string>
+    <string name="title_activity_animation_compose">AnimationComposeActivity</string>
+</resources>
